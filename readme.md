@@ -22,7 +22,7 @@ npm run start
 ```
 
 ### Key Technologies and Skills Used 
-
+```
 - Node.js: Serves as the runtime environment for executing JavaScript on the server side, enabling the development of scalable network applications.
 
 - Express.js: A web application framework for Node.js that simplifies the process of building robust APIs by providing a set of features for web and mobile applications.
@@ -44,6 +44,7 @@ npm run start
 - Version Control with Git: Managed codebase and tracked changes using Git, facilitating collaboration and version management.
 
 - API Documentation with Postman: Created and tested API endpoints using Postman, ensuring comprehensive documentation and facilitating easier consumption of the API by other developers.
+```
 
 ### Key Features
 - Bootcamp Management: Create, update, and delete bootcamps with geolocation functionality (using GeoJSON).
